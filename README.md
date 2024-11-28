@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sam-kilo
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... the basics of code
-- - 📫 How to reach me ... email: sdwebb@aggies.ncat.edu
+- 📫 How to reach me ... email: sdwebb@aggies.ncat.edu
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...I got a dog and I go to NCAT
 - Problem description: ...Throughout my short time in college, I have heard of a recurring problem with students which is missing class that are early in the morning specifically classes between eight and nine AM.
